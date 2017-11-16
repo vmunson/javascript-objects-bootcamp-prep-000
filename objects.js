@@ -1,4 +1,4 @@
-var playlist = {tswift: "our song"}
+var playlist = {tswift "our song"}
 
 function updatePlaylist(playlist, artistName, songTitle){
   playlist[artistName] = songTitle
